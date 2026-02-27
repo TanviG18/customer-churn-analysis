@@ -6,7 +6,7 @@ This project analyzes customer churn behavior using Python, MySQL, and Looker St
 ## 🛠 Tools Used
 - Python (Pandas, NumPy)
 - MySQL Workbench
-- Looker Studio
+- Power BI
 - GitHub
 
 ## 📊 Key Insights
